@@ -2,7 +2,7 @@
 
 Im Dark, some programmer from Germany.  
 I mainly work on Discord bots in TypeScript (MRVN, Zeppelin) but am always open to new things.  
-Currently between jobs.
+Currently with Bertrandt as a System Engineer.
 
 If you have any feedback for me, please dont hesitate to reach out!  
 Discord: @darkuen
